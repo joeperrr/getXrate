@@ -1,0 +1,1 @@
+I use this project to learn git and Python3, been awhile since I programmed and the goal of this project is to get the current exchange rate on my screen without having to go to xe.com. 
